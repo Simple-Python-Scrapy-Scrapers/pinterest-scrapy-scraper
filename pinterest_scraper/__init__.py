@@ -1,0 +1,1 @@
+# Pinterest Scrapy Scraper Package 
